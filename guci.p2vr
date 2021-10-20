@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="18007" version="6.1.10">
+<pano2vrconfig version="6.1.10" rev="18007">
   <tour>
     <panorama>
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pintu Masuk/0.jpg</filename>
+        <filename>D:/RICOH_THETA/Pintu Masuk/0.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -118,6 +118,8 @@
           <polygon/>
           <type>point</type>
           <id>Point03</id>
+          <title>Gerbang</title>
+          <description>Gerbang pintu masuk utama Guci </description>
           <linktype>info</linktype>
           <linksubtype>unknown</linksubtype>
           <distance>0</distance>
@@ -138,7 +140,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pintu Masuk/0.5.jpg</filename>
+        <filename>D:/RICOH_THETA/Pintu Masuk/0.5.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -374,7 +376,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_25.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_25.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -547,6 +549,30 @@
           <width>0</width>
           <height>0</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-280.04</pan>
+            <tilt>-0.46</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point06</id>
+          <title>Jeep Adventure</title>
+          <linktype>info</linktype>
+          <linksubtype>unknown</linksubtype>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -574,7 +600,7 @@
           </imagepatch>
         </patch>
         <type>auto</type>
-        <filename>Guciku/guciku_1.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -811,7 +837,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_2.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1022,7 +1048,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_3.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_3.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1182,7 +1208,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_5.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_5.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1342,7 +1368,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_6.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_6.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1493,8 +1519,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-331.24</pan>
-            <tilt>-1.96</tilt>
+            <pan>-8.77</pan>
+            <tilt>-8.94</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1525,7 +1551,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_7.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_7.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1685,7 +1711,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_8.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_8.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1873,7 +1899,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_9.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_9.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -2033,7 +2059,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_10.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_10.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -2236,7 +2262,7 @@
           </imagepatch>
         </patch>
         <type>auto</type>
-        <filename>Guciku/guciku_11.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_11.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -2398,7 +2424,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_12.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_12.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -2585,7 +2611,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_13.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_13.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -2722,7 +2748,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_14.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_14.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -2976,7 +3002,7 @@
           </imagepatch>
         </patch>
         <type>auto</type>
-        <filename>Guciku/guciku_15.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_15.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -3138,7 +3164,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_16.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_16.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -3275,7 +3301,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_17.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_17.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -3412,7 +3438,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_18.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_18.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -3623,7 +3649,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_19.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_19.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -3709,7 +3735,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_20.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_20.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -3846,7 +3872,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_21.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_21.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -3986,7 +4012,7 @@
           </imagepatch>
         </patch>
         <type>auto</type>
-        <filename>Guciku/guciku_22.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_22.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -4123,7 +4149,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_24.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_24.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -4300,7 +4326,7 @@
           </imagepatch>
         </patch>
         <type>auto</type>
-        <filename>Guciku/guciku_25.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_25.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -4513,7 +4539,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_26.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_26.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -4701,7 +4727,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_27.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_27.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -4838,7 +4864,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_28.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_28.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -4975,7 +5001,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_29.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_29.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -5086,7 +5112,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Guciku/guciku_23.jpg</filename>
+        <filename>D:/RICOH_THETA/Guciku/guciku_23.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -5288,7 +5314,7 @@
           </imagepatch>
         </patch>
         <type>auto</type>
-        <filename>Pasar/pasar_1.jpg</filename>
+        <filename>D:/RICOH_THETA/Pasar/pasar_1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -5467,8 +5493,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-67.66</pan>
-            <tilt>8.81</tilt>
+            <pan>-67.85</pan>
+            <tilt>8.82</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -5479,7 +5505,7 @@
           <polygon/>
           <type>point</type>
           <id>Point07</id>
-          <description>&lt;iframe src="../info/guci/info_pasar.php" width="100%" height="100%" frameborder= "0">&lt;/iframe></description>
+          <description>&lt;iframe src="../../info/guci/info_pasar.php" width="100%" height="100%" frameborder= "0">&lt;/iframe></description>
           <linktype>info</linktype>
           <linksubtype>unknown</linksubtype>
           <distance>0</distance>
@@ -5500,7 +5526,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pasar/pasar_2.jpg</filename>
+        <filename>D:/RICOH_THETA/Pasar/pasar_2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -5664,7 +5690,7 @@
           <polygon/>
           <type>point</type>
           <id>Point06</id>
-          <description>&lt;iframe src="../info/guci/info_pasar.php" width="100%" height="100%" frameborder= "0">&lt;/iframe></description>
+          <description>&lt;iframe src="../../info/guci/info_pasar.php" width="100%" height="100%" frameborder= "0">&lt;/iframe></description>
           <linktype>info</linktype>
           <linksubtype>unknown</linksubtype>
           <distance>0</distance>
@@ -5685,7 +5711,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pasar/pasar_3.jpg</filename>
+        <filename>D:/RICOH_THETA/Pasar/pasar_3.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -5871,7 +5897,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pasar/pasar_5.jpg</filename>
+        <filename>D:/RICOH_THETA/Pasar/pasar_5.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -6057,7 +6083,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pasar/pasar_6.jpg</filename>
+        <filename>D:/RICOH_THETA/Pasar/pasar_6.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -6296,7 +6322,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pasar/pasar_7.jpg</filename>
+        <filename>D:/RICOH_THETA/Pasar/pasar_7.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -6508,7 +6534,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pasar/pasar_8.jpg</filename>
+        <filename>D:/RICOH_THETA/Pasar/pasar_8.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -6694,7 +6720,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Jalanan/jalanan_1.jpg</filename>
+        <filename>D:/RICOH_THETA/Jalanan/jalanan_1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -6831,7 +6857,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Jalanan/jalanan_2.jpg</filename>
+        <filename>D:/RICOH_THETA/Jalanan/jalanan_2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -7094,7 +7120,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Jalanan/jalanan_3.jpg</filename>
+        <filename>D:/RICOH_THETA/Jalanan/jalanan_3.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -7231,7 +7257,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Jalanan/jalanan_4.jpg</filename>
+        <filename>D:/RICOH_THETA/Jalanan/jalanan_4.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -7419,7 +7445,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Jalanan/jalanan_5.jpg</filename>
+        <filename>D:/RICOH_THETA/Jalanan/jalanan_5.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -7580,7 +7606,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Jalanan/jalanan_6.jpg</filename>
+        <filename>D:/RICOH_THETA/Jalanan/jalanan_6.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -7716,7 +7742,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Jalanan/jalanan_7.jpg</filename>
+        <filename>D:/RICOH_THETA/Jalanan/jalanan_7.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -7904,7 +7930,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Jalanan/jalanan_8.jpg</filename>
+        <filename>D:/RICOH_THETA/Jalanan/jalanan_8.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -8041,7 +8067,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Jalanan/jalanan_9.jpg</filename>
+        <filename>D:/RICOH_THETA/Jalanan/jalanan_9.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -8229,7 +8255,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Jalanan/jalanan_10.jpg</filename>
+        <filename>D:/RICOH_THETA/Jalanan/jalanan_10.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -8417,7 +8443,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Jalanan/jalanan_11.jpg</filename>
+        <filename>D:/RICOH_THETA/Jalanan/jalanan_11.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -8603,7 +8629,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Jalanan/jalanan_12.jpg</filename>
+        <filename>D:/RICOH_THETA/Jalanan/jalanan_12.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -8740,7 +8766,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Suvenir/suvenir_1.jpg</filename>
+        <filename>D:/RICOH_THETA/Suvenir/suvenir_1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -8901,7 +8927,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Suvenir/suvenir_2.jpg</filename>
+        <filename>D:/RICOH_THETA/Suvenir/suvenir_2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -9062,7 +9088,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Suvenir/suvenir_3.jpg</filename>
+        <filename>D:/RICOH_THETA/Suvenir/suvenir_3.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -9222,7 +9248,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Suvenir/suvenir_4.jpg</filename>
+        <filename>D:/RICOH_THETA/Suvenir/suvenir_4.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -9383,7 +9409,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>uptd/uptd_1.jpg</filename>
+        <filename>D:/RICOH_THETA/uptd/uptd_1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -9567,7 +9593,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>uptd/uptd_2.jpg</filename>
+        <filename>D:/RICOH_THETA/uptd/uptd_2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -9752,7 +9778,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>uptd/uptd_3.jpg</filename>
+        <filename>D:/RICOH_THETA/uptd/uptd_3.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -9977,7 +10003,7 @@
           </imagepatch>
         </patch>
         <type>auto</type>
-        <filename>Pancuran 5/pancuran5_1.jpg</filename>
+        <filename>D:/RICOH_THETA/Pancuran 5/pancuran5_1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -10133,7 +10159,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pemandian Tertutup/pemandian_1.jpg</filename>
+        <filename>D:/RICOH_THETA/Pemandian Tertutup/pemandian_1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -10323,7 +10349,7 @@
           </imagepatch>
         </patch>
         <type>auto</type>
-        <filename>Pemandian Tertutup/pemandian_2.jpg</filename>
+        <filename>D:/RICOH_THETA/Pemandian Tertutup/pemandian_2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -10484,7 +10510,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pemandian Tertutup/pemandian_3.jpg</filename>
+        <filename>D:/RICOH_THETA/Pemandian Tertutup/pemandian_3.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -10645,7 +10671,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pancuran 13/pancuran13_1.jpg</filename>
+        <filename>D:/RICOH_THETA/Pancuran13/pancuran13_1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -10854,7 +10880,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pancuran 13/pancuran13_2.jpg</filename>
+        <filename>D:/RICOH_THETA/Pancuran13/pancuran13_2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -11011,7 +11037,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pancuran 13/pancuran13_3.jpg</filename>
+        <filename>D:/RICOH_THETA/Pancuran13/pancuran13_3.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -11196,7 +11222,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pancuran 13/pancuran13_4.jpg</filename>
+        <filename>D:/RICOH_THETA/Pancuran13/pancuran13_4.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -11279,7 +11305,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pancuran 13/pancuran13_5.jpg</filename>
+        <filename>D:/RICOH_THETA/Pancuran13/pancuran13_5.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -11438,7 +11464,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pancuran 13/pancuran13_6.jpg</filename>
+        <filename>D:/RICOH_THETA/Pancuran13/pancuran13_6.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -11623,7 +11649,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pancuran 13/pancuran13_7.jpg</filename>
+        <filename>D:/RICOH_THETA/Pancuran13/pancuran13_7.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -11754,7 +11780,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pancuran 13/pancuran13_8.jpg</filename>
+        <filename>D:/RICOH_THETA/Pancuran13/pancuran13_8.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -11862,7 +11888,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pancuran 13/pancuran13_9.jpg</filename>
+        <filename>D:/RICOH_THETA/Pancuran13/pancuran13_9.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -11996,7 +12022,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Pancuran 13/pancuran13_10.jpg</filename>
+        <filename>D:/RICOH_THETA/Pancuran13/pancuran13_10.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -12103,7 +12129,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_1.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -12264,7 +12290,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_26.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_26.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -12476,7 +12502,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_24.JPG</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_24.JPG</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -12664,7 +12690,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_25.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_25.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -12801,7 +12827,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_21.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_21.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -12989,7 +13015,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_22.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_22.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -13126,7 +13152,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_23.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_23.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -13313,7 +13339,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_24.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_24.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -13450,7 +13476,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_2.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -13712,7 +13738,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_3.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_3.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -13922,7 +13948,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_4.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_4.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -14158,7 +14184,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_5.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_5.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -14345,7 +14371,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_6.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_6.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -14507,7 +14533,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_7.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_7.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -14694,7 +14720,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_8.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_8.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -14905,7 +14931,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_9.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_9.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -15015,7 +15041,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_10.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_10.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -15152,7 +15178,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_1.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_1.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -15492,7 +15518,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_11.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_11.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -15578,7 +15604,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_12.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_12.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -15664,7 +15690,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_13.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_13.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -15798,7 +15824,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_14.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_14.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -16032,7 +16058,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_15.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_15.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -16243,7 +16269,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_16.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_16.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -16429,7 +16455,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_17.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_17.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -16515,7 +16541,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_18.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_18.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -16754,7 +16780,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_19.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_19.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -16916,7 +16942,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Baron Hill/baron_20.jpg</filename>
+        <filename>D:/RICOH_THETA/Baron_Hill/baron_20.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -17002,7 +17028,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_2.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -17139,7 +17165,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_3.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_3.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -17350,7 +17376,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_4.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_4.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -17459,7 +17485,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_5.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_5.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -17672,7 +17698,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_6.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_6.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -17783,7 +17809,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_7.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_7.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -17996,7 +18022,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_8.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_8.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -18082,7 +18108,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_9.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_9.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -18244,7 +18270,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_10.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_10.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -18432,7 +18458,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_11.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_11.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -18569,7 +18595,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_12.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_12.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -18782,7 +18808,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_13.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_13.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -18944,7 +18970,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_14.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_14.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -19132,7 +19158,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_15.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_15.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -19243,7 +19269,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_16.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_16.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -19380,7 +19406,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_17.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_17.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -19517,7 +19543,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_18.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_18.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -19653,7 +19679,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_19.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_19.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -19891,7 +19917,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_20.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_20.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -20024,7 +20050,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_23.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_23.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -20110,7 +20136,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_21.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_21.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -20247,7 +20273,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Geong/geong_22.jpg</filename>
+        <filename>D:/RICOH_THETA/Geong/geong_22.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -20558,7 +20584,7 @@
         <webvr/>
         <tilesize>1680</tilesize>
         <filename>output/pano.xml</filename>
-        <skinfile>simplex_v7.ggsk</skinfile>
+        <skinfile>D:/RICOH_THETA/simplex_v7.ggsk</skinfile>
         <quality>75</quality>
       </htmlcss>
     </output>
